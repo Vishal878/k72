@@ -38,8 +38,8 @@ const Work = () => {
       },
       scrollTrigger: {
         trigger: '.lol',
-        start: 'top 100%',
-        end: 'top -150%',
+        start: 'top 120%',
+        end: 'top -350%',
         scrub: true
       }
     })
